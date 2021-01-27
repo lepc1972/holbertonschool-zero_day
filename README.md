@@ -2,4 +2,4 @@
 
 ###what is vagrant###
 
-A virtual environment
+A virtual environment for developers
